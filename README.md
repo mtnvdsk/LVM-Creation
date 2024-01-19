@@ -1,7 +1,8 @@
 # LVM-Creation
 
 You can check the belwo post for understandin gof what is LVM? 
-[Linkedin POst](https://www.linkedin.com/feed/update/urn:li:activity:7153739876494966785/)
+
+[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7153739876494966785/)
 
 # To set up a new Logical Volume, we need to proceed in the following order:
 
