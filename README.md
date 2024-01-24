@@ -1,6 +1,6 @@
 # LVM-Creation
 
-You can check the belwo post for understandin gof what is LVM? 
+You can check the below post for understanding of what is LVM? 
 
 [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7153739876494966785/)
 
